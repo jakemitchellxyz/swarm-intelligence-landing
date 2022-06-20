@@ -8,6 +8,8 @@ import { UpDown, UpDownWide } from "../styles/animations"
 // @ts-ignore
 import Intro from "../sections/intro"
 
+import "../styles/custom-css.css"
+
 const Hero = ({ offset, factor = 1 }: { offset: number; factor?: number }) => (
   <div>
     <Divider speed={0.2} offset={offset} factor={factor}>

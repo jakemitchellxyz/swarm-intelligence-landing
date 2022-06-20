@@ -11,7 +11,7 @@ module.exports = {
     siteTitleAlt: `Swarm Intelligence LLC`,
     siteHeadline: `Swarm Intelligence`,
     siteUrl: `https://swarmintelligence.llc`,
-    siteDescription: `A business`,
+    siteDescription: `Future of business design, delegated and distributed with trust.`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
     author: `@swarmintelligencellc`,
@@ -25,9 +25,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `Swarm Intelligence LLC`,
+        short_name: `Swarm Intelligence`,
+        description: `Future of business design, delegated and distributed with trust.`,
         start_url: `/`,
         background_color: `#00043c`,
         // This will impact how browsers show your PWA/website
